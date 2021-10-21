@@ -1,0 +1,65 @@
+
+
+
+body{
+    background-color: wheat;
+}
+
+h1{
+    border: 1px solid rgb(0, 0, 0);
+    font-style: oblique;
+}
+
+body{
+    background-image: url('SiwaSandDunes.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position-x: center;
+    background-position-y: 500px;
+}
+
+
+div{
+    font-style: initial;
+    font-size: 12px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: rgb(46, 43, 43);
+    color: wheat;
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-right-width: 10px;
+    
+
+
+    border: 5px red solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box-1 h1{
+    font-family: Tahoma;
+    font-weight: style;
+    font-style:italic;
+    text-decoration:underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+
+}
+
+.box-2 {
+    border: 3px dotted red;
+    color: wheat;
+    background-color:rgb(46, 43, 43) ;
+    padding: 20px;
+    margin: 20px 0;
+}
